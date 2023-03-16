@@ -1,0 +1,66 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: wheat;
+}
+
+.navbar {
+
+    background-color: lightslategray;
+    height: 50px;
+}
+
+img {
+
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.bar {
+
+    color: white;
+    text-decoration: none;
+}
+
+ul,
+li {
+    text-align: center;
+    list-style: none;
+    margin-right: 50px;
+    float: right;
+}
+
+.food {
+    width: 500px;
+    height: 400px;
+    padding: 50px 30px;
+    border-radius: 70px;
+}
+
+.first {
+    height: 300px;
+    width: 400px;
+    float: right;
+    margin-right: 350px;
+    margin-top: 150px
+}
+
+.second {
+    height: 400px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+
+.button1 {
+    border-radius: 20px;
+    background-color: rgba(255, 68, 0, 0.884);
+    color: black;
+    font-size: medium;
+    height: 40px;
+    width: 160px;
+    border: none;
+
+}
