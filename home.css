@@ -25,6 +25,7 @@ img {
 
 ul,
 li {
+    display:inline-flex ;
     text-align: center;
     list-style: none;
     margin-right: 50px;
